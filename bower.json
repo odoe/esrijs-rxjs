@@ -1,0 +1,19 @@
+{
+  "name": "esrijs-rxjs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/odoe/esrijs-flux",
+  "authors": [
+    "rene rubalcava <rrubalcava@odoe.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rxjs": "~2.5.2"
+  }
+}
